@@ -41,8 +41,8 @@ const MessageRole = {
     ASSISTANT: 'assistant'
 }
 
-const defaultExtPrefix = '[NoAss]';
-const path = 'third-party/noass';
+const defaultExtPrefix = '[NoAssOld]';
+const path = 'third-party/noass-old';
 
 let cachedStopString;
 let clientStopStringTriggered = false;
